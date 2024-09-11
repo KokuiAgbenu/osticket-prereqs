@@ -53,7 +53,7 @@ Use the created virtual machine's public IP address to connect using Remote Desk
 
 </p>
 <p>
-Download osTicket from the osTicket website (https://osticket.com/download/) and extract the files once downloaded.
+Within the virtual machine download osTicket from the osTicket website (https://osticket.com/download/) and extract the files once downloaded.
 </p>
 <br />
 
